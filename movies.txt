@@ -1,0 +1,13 @@
+RentalMovie
+1
+Dark khnight
+5
+true
+not on loan
+NewReleaseMovie
+2
+Captain America
+6
+true
+not on loan
+not on reserve
