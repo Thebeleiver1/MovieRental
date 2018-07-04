@@ -3,19 +3,7 @@ package RentalMovie;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-/*
- * class Rentalmovie
- * 
- * Encapsulates the attribute detail and functionality required to
- * record and manage "normal" movie's in the movie rental system
- * as described in Stage 1 of the specification.
- * 
- * You should leave this class as-is while implementing the requirements
- * in stages 2-4, but you can/will need to amend this class for stage 5
- * (exception handling) and the bonus marks stage (file handling) to
- * facilitate the addressing of the requirements set out in those stages.
- *  
- */
+
 
 public class RentalMovie
 {

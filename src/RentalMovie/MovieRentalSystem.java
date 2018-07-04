@@ -10,12 +10,7 @@ import java.io.PrintWriter;
  * Implements the data storage and functional requirements
  * for a menu-driven program that manages property sales.
  * 
- * This is the start-up code for Assignment 3 and you should
- * work off this program - the features described in the
- * specification for Stages 2 and 4 should be implemented in 
- * the corresponding helper methods included at the bottom of 
- * this class.
- * 
+ *
  */
 
 import java.util.*;
